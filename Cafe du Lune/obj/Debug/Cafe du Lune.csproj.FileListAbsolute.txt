@@ -1,0 +1,80 @@
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Cafe du Lune.exe.config
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe du Lune.exe
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe du Lune.pdb
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Americano.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Asiático.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Bacon Cheese Baked Fries.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\BBQ Baked Fries.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\bbq-chicken-pizza.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Bottled Water.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Bubble Tea.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\buffalo-chicken-pizza.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Caffè Misto.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Cappuccino.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Caramel Frappuccino.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Caramel Hazelnut Mocha.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Caramelized Apple Sandwich Waffle.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Chai Tea Latte.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\cheese-pizza.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Cherry Cola Ice Cream Float.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Chicken Burger.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Chocolate Ice Cream Float.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Chocolate Ice Cream Sandwich Waffle.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Chocolate Ice Cream.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Classic Cheese Burger.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Classic Veggie Burger.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Coca Cola.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Coconut Water Lemonade.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Cranberry Spritzer.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Creamy Caramel Latte.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Dark Roast.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Diet Coke.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Double Chocolaty Chip Crème Frappuccino.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Double Patty Veggie Burger.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Espresso.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Frozen Blueberry Lemonade.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\hawaiian-pizza.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Hibiscus Mocktini.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Hot Chocolate.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Hot Matcha Latte.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Hot Penicillin.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Hot Tumeric Latte.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Iced Matcha Green Tea Latte.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Iced Tahini Mocha.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Iced Tea With Plums and Thyme.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Irish Coffee.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\margherita-pizza.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Matcha Ice Cream Sandwich Waffle.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Matcha Ice Cream.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\meat-pizza.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\No-Bun Bruschetta Burger.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\peperoni-pizza.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Pumpkin Spice Latte.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Rainbow Ice Cream.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Regular Baked Fries.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Sparkling Pineapple Gingerale.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Spiced Ginger Cardamom Coffee.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Sprinkles Vanilla Ice Cream Sandwich Waffle.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Steak Frites Burger.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Strawberry Ice Cream Sandwich Waffle.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Strawberry Ice Cream.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Strawberry Lemon Crush.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Ultimate Waffle Toppings Combo.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Vanilla Caramel Iced Latte.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Vanilla Ice Cream Chocolate Glazed Waffle.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Vanilla Ice Cream.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\veggie-pizza.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Icons\Warm Hazelnut Toddy.png
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Cafe du Lune.exe
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\bin\Debug\Cafe du Lune.pdb
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe du Lune.csprojResolveAssemblyReference.cache
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe_du_Lune.frmClickToStart.resources
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe_du_Lune.frmMainOrderPage.resources
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe_du_Lune.frmQueue.resources
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe_du_Lune.Properties.Resources.resources
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe_du_Lune.UControl.DiningLoc.resources
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe_du_Lune.UControl.MenuChoice.resources
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe_du_Lune.UControl.MyOrders.resources
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe_du_Lune.UControl.OrderConfirmed.resources
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe_du_Lune.UControl.Pay.resources
+C:\Users\angee\Videos\Cafe du Lune\Cafe du Lune\obj\Debug\Cafe du Lune.csproj.GenerateResource.Cache
